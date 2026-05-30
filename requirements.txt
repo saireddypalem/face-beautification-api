@@ -29,7 +29,6 @@ polars-runtime-32==1.40.0
 psutil==7.2.2
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
-pywin32==311
 PyYAML==6.0.3
 requests==2.33.1
 scikit-image==0.26.0
